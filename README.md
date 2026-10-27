@@ -8,7 +8,7 @@ Manager - System Administrator | VMware | Windows | Linux | Automation
 
 ## 👨‍💻 About Me
 
-💼 Manager - System Administrator
+💼 Senior DevOps & Infrastructure Engineer
 
 🏢 Bata India Ltd.
 
@@ -53,9 +53,9 @@ Manager - System Administrator | VMware | Windows | Linux | Automation
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: Add your LinkedIn URL
+🔗 LinkedIn: https://www.linkedin.com/in/laxman-shirke-80161537/
 
-📧 Email: Add your Email
+📧 Email: shirkeorama@gmail.com
 
 ---
 
